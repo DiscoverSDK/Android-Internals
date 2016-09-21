@@ -6,6 +6,8 @@
 
 	Add the c source
 
+
+
 2. Compile the rom, run the emulator and start the service using adb:
 
 	cd ~/aosp
@@ -23,6 +25,8 @@
 	cd data
 
 	applog &
+
+
 
 3. Create android application to use it
 
